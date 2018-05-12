@@ -1,0 +1,38 @@
+_repo: Taten-des-gro-en-Alexander_45319
+_version: 0.1.0
+alternative_title: Taten des grossen Alexander
+contributor:
+  translator:
+    agent_name: Rubiner, Ludwig
+    gutenberg_agent_id: '42758'
+    url: http://www.gutenberg.org/2009/agents/42758
+covers:
+- cover_type: archival
+  image_path: 45319-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Kuzmin, M. A. (Mikhail Alekseevich)
+    aliases:
+    - Kusmin, Michael A.
+    - Кузмин, М. А. (Михаил Алексеевич)
+    - Kuzmin, Mikhail Alekseevich
+    - Kusmin, Michail
+    - Kusmin, M.
+    birthdate: 1872
+    deathdate: 1936
+    gutenberg_agent_id: '41103'
+    url: http://www.gutenberg.org/2009/agents/41103
+description: ''
+gutenberg_issued: '2014-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45319'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alexander, the Great, 356-323 B.C.'
+- !lcc 'DF'
+title: Taten des großen Alexander
+url: http://www.gutenberg.org/ebooks/45319
